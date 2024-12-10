@@ -1,7 +1,7 @@
 # GitHub User Finder  
 Find GitHub users easily using the GitHub API!  
 
-![GitHub User Finder Screenshot](https://i.ibb.co/xqfmBWZ/Screenshot-2.png)
+![GitHub User Finder Screenshot](https://i.ibb.co/n7Cd7yv/Screenshot-4.png)
 
 ## 🚀 Features  
 - Search for GitHub users by username.  
